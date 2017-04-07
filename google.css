@@ -1,0 +1,134 @@
+.top {
+
+
+ 
+ font-size: 12px;
+ position: fixed;
+ right:0;
+ top:0;
+
+}
+	
+
+
+
+
+#navbar {width: 500px;
+height: 40px;
+position:fixed;
+	text-align: center;
+	top:45%;
+	left:30%;
+margin:10px;}
+
+.navbar1 { 
+
+position:fixed;
+text-align: center;
+width:115px;
+top: 55%;
+left:42%;
+display: inline-block;
+margin:10px 0px 0px 0px;
+font-size: 12px;
+padding:5px;
+background-color: gray;
+font-weight: bold;
+border: 2px solid;
+border-radius: 2px;
+}
+
+.navbar2 {
+
+	width: 115px;
+    top:55%;
+    text-align: center;
+    position: fixed;
+    right:37%;
+    margin:10px 0px 0px 0px;
+  padding: 5px;
+   font-size: 12px;
+   background-color: gray;
+   font-weight: bold;
+   border: 2px solid;
+   border-radius: 2px;
+   
+
+}
+
+.google {
+
+
+height:92px;
+width:272px;
+text-align:center;
+display: block;
+position: fixed;
+top:30%;
+left:40%;
+
+
+
+
+}
+
+
+.highlight {
+
+text-decoration: none;
+color: black;
+display: inline;
+
+}
+
+.bottomright  {
+	display: inline;
+ text-decoration: none;
+ font-size: 12px;
+ position:fixed;
+ bottom:0;
+ right:0;
+ padding:5px;
+  
+
+
+
+}
+
+p {display:inline;}
+
+.bottomleft {display: inline;
+ text-decoration: none;
+ font-size: 12px;
+ float:left;
+ position: fixed;
+ bottom:0;
+ left:0;
+color: black;
+padding: 5px;
+
+
+
+}
+
+.bottomline {
+
+	height:30px;
+	width:1200px;
+	background-color:gray;
+	position: fixed;
+	left:0;
+	right:0;
+	bottom:0;
+	opacity:0.2;
+
+
+
+	
+}
+
+div p {word-spacing: 10px;
+font-family:Verdana;}
+
+div a {word-spacing: 10px;
+font-family:Verdana;}
